@@ -1,11 +1,11 @@
 # Simple Student Mamanagement System In Python
 	
-	##Using
-	..* Using Python Libraries **OS** And **platform**
-	..* Using List
-	..* Using Try And Exceptions
-	..* Using If Else Statements
-	..* Using Loop
-	..* Using Fucntions
+##Using
+	1. Using Python Libraries **OS** And **platform**
+	2. Using List
+	3. Using Try And Exceptions
+	4. Using If Else Statements
+	5. Using Loop
+	6. Using Fucntions
 
 
